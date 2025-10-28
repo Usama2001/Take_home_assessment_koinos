@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Pro 15",
+    "description": "High-performance laptop for professionals",
+    "price": 1299.99,
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with precision tracking",
+    "price": 29.99,
+    "category": "Electronics"
+  },
+  {
+    "id": 3,
+    "name": "Office Chair",
+    "description": "Comfortable ergonomic office chair",
+    "price": 199.99,
+    "category": "Furniture"
+  },
+  {
+    "id": 4,
+    "name": "Standing Desk",
+    "description": "Adjustable height standing desk",
+    "price": 449.99,
+    "category": "Furniture"
+  },
+  {
+    "id": 5,
+    "name": "Mechanical Keyboard",
+    "description": "RGB mechanical keyboard with blue switches",
+    "price": 79.99,
+    "category": "Electronics"
+  },
+  {
+    "id": 6,
+    "name": "Monitor 27inch",
+    "description": "4K 27-inch IPS monitor",
+    "price": 399.99,
+    "category": "Electronics"
+  },
+  {
+    "id": 7,
+    "name": "Desk Lamp",
+    "description": "LED desk lamp with adjustable brightness",
+    "price": 24.99,
+    "category": "Furniture"
+  },
+  {
+    "id": 8,
+    "name": "Webcam HD",
+    "description": "1080p webcam with autofocus",
+    "price": 49.99,
+    "category": "Electronics"
+  },
+  {
+    "id": 9,
+    "name": "USB-C Hub",
+    "description": "7-in-1 USB-C hub with multiple ports",
+    "price": 34.99,
+    "category": "Electronics"
+  },
+  {
+    "id": 10,
+    "name": "Desk Organizer",
+    "description": "Wooden desk organizer with multiple compartments",
+    "price": 19.99,
+    "category": "Furniture"
+  },
+  {
+    "id": 11,
+    "name": "Noise Cancelling Headphones",
+    "description": "Premium wireless headphones with ANC",
+    "price": 349.99,
+    "category": "Electronics"
+  },
+  {
+    "id": 12,
+    "name": "Laptop Stand",
+    "description": "Adjustable aluminum laptop stand",
+    "price": 39.99,
+    "category": "Furniture"
+  },
+  {
+    "id": 13,
+    "name": "External SSD 1TB",
+    "description": "Fast external SSD with USB 3.1",
+    "price": 129.99,
+    "category": "Electronics"
+  },
+  {
+    "id": 14,
+    "name": "Cable Manager",
+    "description": "Cable management system for desk",
+    "price": 14.99,
+    "category": "Accessories"
+  },
+  {
+    "id": 15,
+    "name": "Monitor Arm",
+    "description": "Gas spring monitor arm with VESA mount",
+    "price": 89.99,
+    "category": "Furniture"
+  },
+  {
+    "id": 16,
+    "name": "USB Drive 128GB",
+    "description": "High-speed USB 3.0 flash drive",
+    "price": 16.99,
+    "category": "Electronics"
+  },
+  {
+    "id": 17,
+    "name": "Desk Mat",
+    "description": "Large leather desk mat",
+    "price": 29.99,
+    "category": "Accessories"
+  },
+  {
+    "id": 18,
+    "name": "Tablet Stand",
+    "description": "Adjustable tablet stand with charging dock",
+    "price": 54.99,
+    "category": "Accessories"
+  },
+  {
+    "id": 19,
+    "name": "Blue Light Glasses",
+    "description": "Computer glasses to reduce eye strain",
+    "price": 24.99,
+    "category": "Accessories"
+  },
+  {
+    "id": 20,
+    "name": "Footrest",
+    "description": "Ergonomic footrest with adjustable height",
+    "price": 34.99,
+    "category": "Furniture"
+  },
+  {
+    "id": 21,
+    "name": "Smart Speaker",
+    "description": "Voice-controlled smart speaker",
+    "price": 99.99,
+    "category": "Electronics"
+  },
+  {
+    "id": 22,
+    "name": "Paper Shredder",
+    "description": "Cross-cut paper shredder",
+    "price": 79.99,
+    "category": "Office Equipment"
+  },
+  {
+    "id": 23,
+    "name": "Printer Scanner Combo",
+    "description": "All-in-one printer and scanner",
+    "price": 149.99,
+    "category": "Office Equipment"
+  },
+  {
+    "id": 24,
+    "name": "Whiteboard",
+    "description": "Wall-mounted magnetic whiteboard",
+    "price": 49.99,
+    "category": "Office Equipment"
+  },
+  {
+    "id": 25,
+    "name": "Document Tray",
+    "description": "Stackable document tray system",
+    "price": 19.99,
+    "category": "Office Equipment"
+  }
+]
+
