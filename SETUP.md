@@ -1,9 +1,6 @@
 # Setup Guide
 
-## Prerequisites
 
-- Node.js 18.x (install using [nvm](https://github.com/nvm-sh/nvm))
-- npm or yarn package manager
 
 ## Installation
 
